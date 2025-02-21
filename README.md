@@ -1,4 +1,4 @@
-# dl.1fps.lol
+# [dl.1fps.lol](https://dl.1fs.lol)
 
 # 🐋 Docker Install Script
 ### Ubuntu:
