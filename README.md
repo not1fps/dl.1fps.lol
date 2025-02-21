@@ -3,7 +3,7 @@
 # 🐋 Docker Install Script
 ### Ubuntu:
 ```
-https://dl.1fps.lol/scripts/docker/ubuntu/install.sh
+curl -fsSL https://dl.1fps.lol/scripts/docker/ubuntu/install.sh | sudo bash
 ```
 
 ### Debian
